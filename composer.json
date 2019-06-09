@@ -1,0 +1,24 @@
+
+{
+
+  "name" : "tluu9/IT328/final_project",
+  "authors" :
+  [
+    {
+      "name" : "Trang Luu",
+      "email" : "tluu9@mail.greenriver.edu"
+    },
+    {
+      "name" : "David Nagy",
+      "email" : "dnagy@mail.greenriver.edu"
+    }
+  ],
+  "require" :
+  {
+    "bcosca/fatfree-core" : "dev-master"
+  },
+  "autoload":
+  {
+    "classmap": ["classes/","model/"]
+  }
+}
